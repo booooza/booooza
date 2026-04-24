@@ -2,6 +2,8 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+[![Tech Stack](https://skillicons.dev/icons?i=rust,ts,react,php,py,flutter,bash,git,html,css,mysql,kubernetes)](https://skillicons.dev)
+
 <!--
 **booooza/booooza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
